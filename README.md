@@ -19,7 +19,7 @@ Here, we check if the format of each column is correct and correct it where nece
   - Handle Missing Data.
   - Use the Filter button in column headers to remove irrelevant records.
   - Apply and Load the Cleaned Data.
-  - 
+    
 ## Data Exploration/Visualization
 
 This is where we answered specific business questions for sale performance analysis by comparison using charts and tiles. Some of these questions include:
